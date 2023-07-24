@@ -1,5 +1,5 @@
 
-diferencia entre [Request, NextRequest, NextApiRequest] en Nextjs
+diferencia entre [Request, NextRequest, NextApiRequest] en NextJS
 
 En Next.js, hay tres tipos de objetos de solicitud que se utilizan en diferentes contextos: Request, NextRequest y NextApiRequest. Aquí está la diferencia entre ellos:
 
